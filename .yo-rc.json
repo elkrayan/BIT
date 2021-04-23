@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "BITProject",
+    "namespace": "be.ehb.bit",
+    "platform": "Application Router @ Cloud Foundry",
+    "viewtype": "XML",
+    "viewname": "MainView",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": true,
+    "namespaceURI": "be/ehb/bit",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
